@@ -1,4 +1,4 @@
-# Random
+
 <h1> Code for ease of work </h1>
 <h2> sheetsMerger.py </h2>
 - This code takes files from a specific folder in your Google Drive, merge them and stores in another sheet in Google Drive. <br>
