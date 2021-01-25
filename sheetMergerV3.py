@@ -1,3 +1,4 @@
+# It can now handle exception of new sheet creation
 import sys
 import gspread
 from oauth2client.client import GoogleCredentials
