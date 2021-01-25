@@ -16,5 +16,5 @@
 - It does not support if the separate sheets folder is added with new sheets. Throws error.
 
 <h2> sheetsMergerV3.py </h2>
-- Supports all the functionality of V2 
+- Supports all the functionality of V2<br>
 - Supports if new file is added to separate sheets folder.
