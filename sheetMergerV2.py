@@ -1,3 +1,4 @@
+# Now it looks for particular sheet which is newly updated and appends only that one to avoid extra work
 import gspread
 from oauth2client.client import GoogleCredentials
 import pandas as pd
